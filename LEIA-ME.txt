@@ -1,0 +1,8 @@
+PORTUGUÊS
+Abra o arquivo index.html para ver a página inicial, criada com as quatro fotografias fornecidas no arquivo Capa.zip. Clique em “Entrar no álbum” para abrir Colonia San Alberto — Alto Paraná. Use PT, ES ou EN no canto superior direito para mudar o idioma. Cada pasta e subpasta do acervo original aparece como um álbum separado. As localidades físicas possuem um quadro de geolocalização junto às fotografias correspondentes; quando não há coordenadas públicas suficientemente precisas, o quadro informa que a posição é aproximada. Os links dos mapas requerem conexão com a internet.
+
+ESPAÑOL
+Abra el archivo index.html para ver la página inicial, creada con las cuatro fotografías proporcionadas en Capa.zip. Pulse “Entrar al álbum” para abrir Colonia San Alberto — Alto Paraná. Use PT, ES o EN en la esquina superior derecha para cambiar el idioma. Cada carpeta y subcarpeta del archivo original aparece como un álbum separado. Las localidades físicas tienen un cuadro de geolocalización junto a las fotografías correspondientes; cuando no hay coordenadas públicas suficientemente precisas, el cuadro informa que la posición es aproximada. Los enlaces de los mapas requieren conexión a internet.
+
+ENGLISH
+Open index.html to view the start page, created with the four photographs supplied in Capa.zip. Select “Enter the album” to open Colonia San Alberto — Alto Paraná. Use PT, ES, or EN in the upper-right corner to change the language. Every folder and subfolder in the original archive appears as a separate album. Physical localities have a geolocation card beside the corresponding photographs; when sufficiently precise public coordinates are unavailable, the card states that the location is approximate. Map links require an internet connection.
